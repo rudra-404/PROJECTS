@@ -1,0 +1,21 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% ROCK-PAPER-SCISSOR %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Here, You'll Play The Game Called ROCK PAPER SCISSOR With The Computer.
+
+1. Rock
+2. Paper
+3. Scissor
+
+The Game Starts With 5 Point (Players/Users Point)
+
+Note 01 :-
+If Player/User Defate A Round Then He/She Will Lose 1 Point Otherwise He/She Will Achive 1 Point
+
+Note 02 :-
+Player/User Will Be WIN The Game If Value Of The Point Is 10
+
+Note 03 :-
+At The Same Time, Player/User Will Be DEFATE The Game If All The Point He/She Lose
+
+Note 04 :-
+How To Play ? ... Others Information Is Included In The Game. Check And Play !

@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+    background-color: #548687;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.heading{
+    height: 10vmin;
+    width: 58vmin;
+    background-color: #ffffa4;
+    color: #548687;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: .5rem;
+    box-shadow: 0 0 5px black;
+}
+
+.container{
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.296);
+    background-color: #ffffa4;
+    border: none;
+    border-radius: 1rem;
+    font-size: 8vmin;
+    color: #b0413e;
+    transition: .1s;
+}
+
+.box:hover{
+    border: 2px outset #044041;
+    transition: .1s;
+}
+
+.reset-btn{
+    background-color: #044041;
+    color: #93c2c3;
+    padding: 10px 30px;
+    border: 2px solid black;
+    border-radius: .5rem;
+    margin-top: 2vmin;
+    cursor: pointer;
+    transition: .5s;
+    font-size: larger;
+}
+
+.reset-btn:hover{
+    background-color: #032d2e;
+    transition: .5s;
+}
+
+.winning-msg{
+    padding: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 40vh;
+}
+
+.draw-msg{
+    padding: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 40vh;
+}
+
+.congratulation{
+    padding: 20px 40px;
+    background-color: #ffffa4;
+    color: #548687;
+    border-radius: .5rem;
+    box-shadow: 0 0 5px black;
+    margin-top: 120vh;
+}
+
+.comment{
+    padding: 10px 63px;
+    background-color: #548687;
+    font-size: 18px;
+    color: #ffffa4;
+    border-radius: .5rem;
+    box-shadow: 0 0 5px black;
+    margin-top: 17px;
+}
+
+.hide{
+    display: none;
+}

@@ -1,0 +1,13 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Phone Number NoteBook %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Here, You Can Note Your Important Phone Numbers Including Their Name !
+
+-----------------------------------------------------------------------------------------------
+
+Name   : (Owner Of That Number)
+Number : (The Phone Number)
+
+-----------------------------------------------------------------------------------------------
+
+All The Phone Numbers And Owner Names Will Be Stored In A TXT File When The EXE File Is Running
+And The TXT File Will Be Named "contacts.txt".
